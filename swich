@@ -1,0 +1,29 @@
+let revista = "dinero"
+let tiempo = 3
+switch (tiempo) {
+    case 3:
+        console.log("la revista vale x")
+        break;
+case 6:
+     console.log("la revista vale x")
+    break 
+    case 12:
+         console.log("la revista vale x")
+        break
+    
+    default:
+         console.log("precio no encontrado")
+        break;
+}
+switch(revista){
+    case "dinero":{
+
+    }
+    case "ng":{
+
+    }
+    case "aj":{
+
+    }
+
+}
